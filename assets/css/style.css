@@ -387,7 +387,6 @@ span {
     display: flex;
     align-items: center;
     gap: 4px;
-    height: px;
 }
 
 /* footer */
@@ -617,7 +616,6 @@ footer {
 .submenu li a {
     color: #393939;
     font-family: "Overpass";
-    font-size: 100;
 }
 
 .submenu li:first-child {
@@ -626,7 +624,7 @@ footer {
 }
 
 .submenu li:last-child {
-    margin-bottom: 12lf px;
+    margin-bottom: 12px;
 }
 
 .filter_options button {
